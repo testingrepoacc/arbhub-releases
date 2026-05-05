@@ -1,10 +1,8 @@
 {
-  "version": "0.1.34",
-  "released": "2026-05-05T22:04:07.625Z",
+  "version": "0.1.35",
+  "released": "2026-05-05T22:10:11.989Z",
   "brand": "HakiAutomation",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/haki/HakiAutomation.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/haki/HakiAutomation.zip",
-  "changelog": [
-    "test"
-  ]
+  "changelog": []
 }
