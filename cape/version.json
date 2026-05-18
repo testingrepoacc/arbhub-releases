@@ -1,0 +1,10 @@
+{
+  "version": "0.1.40",
+  "released": "2026-05-18T18:35:04.385Z",
+  "brand": "Cape",
+  "crx": "https://testingrepoacc.github.io/arbhub-releases/cape/Cape.crx",
+  "zip": "https://testingrepoacc.github.io/arbhub-releases/cape/Cape.zip",
+  "changelog": [
+    "Small UI changes and bug fixes."
+  ]
+}

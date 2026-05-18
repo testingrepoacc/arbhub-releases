@@ -1,0 +1,10 @@
+{
+  "version": "0.1.40",
+  "released": "2026-05-18T18:35:04.350Z",
+  "brand": "Misprice",
+  "crx": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.crx",
+  "zip": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.zip",
+  "changelog": [
+    "Small UI changes and bug fixes."
+  ]
+}

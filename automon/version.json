@@ -1,8 +1,10 @@
 {
-  "version": "0.1.39",
-  "released": "2026-05-05T23:07:02.118Z",
+  "version": "0.1.40",
+  "released": "2026-05-18T18:35:04.008Z",
   "brand": "Automon",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.zip",
-  "changelog": []
+  "changelog": [
+    "Small UI changes and bug fixes."
+  ]
 }

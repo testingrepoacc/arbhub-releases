@@ -1,8 +1,10 @@
 {
-  "version": "0.1.39",
-  "released": "2026-05-05T23:07:02.144Z",
+  "version": "0.1.40",
+  "released": "2026-05-18T18:35:04.215Z",
   "brand": "AutoPop",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/autopop/AutoPop.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/autopop/AutoPop.zip",
-  "changelog": []
+  "changelog": [
+    "Small UI changes and bug fixes."
+  ]
 }
