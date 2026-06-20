@@ -1,12 +1,13 @@
 {
-  "version": "0.1.47",
-  "released": "2026-06-16T17:59:29.406Z",
+  "version": "0.1.48",
+  "released": "2026-06-20T00:14:00.220Z",
   "brand": "Automon",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.zip",
   "changelog": [
-    "Added retry delay to walmart",
-    "Added atc delay to walmart",
-    "Other minor bug fixes"
+    "Added retry delays and deeper error handling for all modules.",
+    "Rewrote Amazon completely.",
+    "Added Discord ALO",
+    "Updated documentation"
   ]
 }
