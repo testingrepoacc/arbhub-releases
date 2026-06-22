@@ -1,13 +1,11 @@
 {
-  "version": "0.1.48",
-  "released": "2026-06-20T00:14:00.220Z",
+  "version": "0.1.49",
+  "released": "2026-06-22T19:44:42.086Z",
   "brand": "Automon",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.zip",
   "changelog": [
-    "Added retry delays and deeper error handling for all modules.",
-    "Rewrote Amazon completely.",
-    "Added Discord ALO",
-    "Updated documentation"
+    "Updated Walmart",
+    "Better error handling for BestBuy US/CA"
   ]
 }
