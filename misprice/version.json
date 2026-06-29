@@ -1,12 +1,10 @@
 {
-  "version": "0.1.48",
-  "released": "2026-06-20T00:14:00.291Z",
+  "version": "0.1.50",
+  "released": "2026-06-29T18:54:31.446Z",
   "brand": "Misprice",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.zip",
   "changelog": [
-    "Added retry delays and deeper error handling for all modules.",
-    "Rewrote Amazon completely.",
-    "Updated documentation"
+    "Updated Shopify to allow payments in PayPal."
   ]
 }

@@ -1,11 +1,10 @@
 {
-  "version": "0.1.49",
-  "released": "2026-06-22T19:44:42.086Z",
+  "version": "0.1.50",
+  "released": "2026-06-29T18:54:31.182Z",
   "brand": "Automon",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.zip",
   "changelog": [
-    "Updated Walmart",
-    "Better error handling for BestBuy US/CA"
+    "Updated Shopify to allow payments in PayPal."
   ]
 }
