@@ -1,10 +1,10 @@
 {
-  "version": "0.1.50",
-  "released": "2026-06-29T18:54:31.446Z",
+  "version": "0.1.51",
+  "released": "2026-07-01T00:33:14.855Z",
   "brand": "Misprice",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.zip",
   "changelog": [
-    "Updated Shopify to allow payments in PayPal."
+    "Minor bug fixes with Webhook saving."
   ]
 }
