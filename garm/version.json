@@ -1,10 +1,10 @@
 {
-  "version": "0.1.52",
-  "released": "2026-07-01T05:07:29.536Z",
+  "version": "0.1.53",
+  "released": "2026-07-09T18:49:39.852Z",
   "brand": "Garm",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/garm/Garm.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/garm/Garm.zip",
   "changelog": [
-    "Added Auto-Link-Opener"
+    "Fixed errors with update flow"
   ]
 }

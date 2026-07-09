@@ -1,12 +1,10 @@
 {
-  "version": "0.1.46",
-  "released": "2026-06-14T16:03:37.732Z",
+  "version": "0.1.53",
+  "released": "2026-07-09T18:49:39.767Z",
   "brand": "AutoRip",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/autorip/AutoRip.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/autorip/AutoRip.zip",
   "changelog": [
-    "Updated Shopify Module to properly work for all regions",
-    "Fixed Country and Region selector to properly support all regions",
-    "Added Webhook for Shopify"
+    "Fixed errors with update flow"
   ]
 }

@@ -1,11 +1,10 @@
 {
-  "version": "0.1.51",
-  "released": "2026-07-01T00:33:14.842Z",
+  "version": "0.1.53",
+  "released": "2026-07-09T18:49:39.742Z",
   "brand": "Automon",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.zip",
   "changelog": [
-    "Minor bug fixes with Webhook saving.",
-    "Added new Walmart retry method."
+    "Fixed errors with update flow"
   ]
 }

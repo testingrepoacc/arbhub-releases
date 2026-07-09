@@ -1,10 +1,10 @@
 {
-  "version": "0.1.51",
-  "released": "2026-07-01T00:33:14.855Z",
+  "version": "0.1.53",
+  "released": "2026-07-09T18:49:39.872Z",
   "brand": "Misprice",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/misprice/Misprice.zip",
   "changelog": [
-    "Minor bug fixes with Webhook saving."
+    "Fixed errors with update flow"
   ]
 }
