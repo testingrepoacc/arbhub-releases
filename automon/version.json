@@ -1,10 +1,13 @@
 {
-  "version": "0.1.54",
-  "released": "2026-07-09T20:33:01.528Z",
+  "version": "0.1.55",
+  "released": "2026-07-25T02:16:33.291Z",
   "brand": "Automon",
   "crx": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.crx",
   "zip": "https://testingrepoacc.github.io/arbhub-releases/automon/Automon.zip",
   "changelog": [
-    "Updated issue with EB games not firing."
+    "Removed Pokemon Center (Getting early in queue is the issue not speed on cart page).",
+    "Made some UI design changes.",
+    "Updated Discord Auto-Link Opener to only scan the embed title instead of the whole embed.",
+    "Removed Walmart Canada (Developer QOL improvement as well as limiting user frustration on Walmarts naturally terrible site). It may come back in the future"
   ]
 }
